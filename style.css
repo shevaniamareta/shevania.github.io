@@ -1,0 +1,12 @@
+body {
+    font-family: "Comic Sans MS";
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(85, 107, 47);
+}
+
+section {
+    padding-top: 6rem;
+}
